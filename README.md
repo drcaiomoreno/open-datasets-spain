@@ -8,3 +8,6 @@ https://www.ine.es/ADRH/?config=config_ADRH_2022.json&showLayers=ADRH_2022_Indic
 
 ### Public Maps from Spain
 https://www.ine.es/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736177088&menu=ultiDatos&idp=1254735976608
+
+### Datos.gob.es
+https://datos.gob.es/es/catalogo
